@@ -1,1 +1,23 @@
 /* your code */
+.header{
+	background-color: blueviolet;
+}
+.row{
+	background-color: whitesmoke;
+/* 	text-align:center; */
+}
+table{
+/* 	border-radius: 0px; */
+	text-align:center;
+	padding:15px;
+	margin:15px;
+/* 	vertical-align:bottom; */
+/* 	horizontal-align:left; */
+/* 	width:50%; */
+/* 	height:100px; */
+}
+th,td{
+	
+	border-bottom: 1px solid #ddd;
+/* 	border-left: 3px solid #ddd; */
+}
